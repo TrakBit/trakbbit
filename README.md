@@ -15,5 +15,19 @@ Backend  - Python, Django, Redis, Celery
 <li>100% cross platform mobile code</li>
 </ul>
 
+#### [Visabyte - Visa Sponsored Tech Jobs](https://www.visabyte.xyz/)
+<ul>
+<li>Mobile Responsive Job board</li>
+<li>Web scrapping from Stackoverflow</li>
+</ul>
+
+### Blogs
+<ul>
+<li>[Avoid The Native In React Native](https://dev.to/harsh_vardhhan/cross-platform-react-native-app-you-sure-86o)</li>
+<li>[Building a job board and running it for FREE (🚨Warning : Very Hacky)](https://dev.to/harsh_vardhhan/building-a-job-board-and-running-it-for-free-warning-very-hacky-1da2)</li>
+</ul>
+
+
+
 
 
