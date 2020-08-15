@@ -7,7 +7,7 @@ Backend  - Python, Django, Redis, Celery
 <ul>
 <li>Derviates trading platform for indian market </li>
 <li>Fetches data every 10 seconds and uses c-types for faster calcualtion</li>
-<br/>
+
 #### [AirPlug Offline Mode](https://www.airplug.xyz/)
 <ul>
 <li>Sync Data from airtable spreadhsheet </li>
