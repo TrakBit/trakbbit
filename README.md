@@ -9,7 +9,7 @@ Backend  - Python, Django, Redis, Celery
 <li>Fetches data every 10 seconds and uses c-types for faster calcualtion</li>
 </ul>
 
-#### [AirPlug Offline Mode](https://www.airplug.xyz/)
+#### [AirPlug - Airtable Offline Mode](https://www.airplug.xyz/)
 <ul>
 <li>Sync Data from airtable spreadhsheet </li>
 <li>100% cross platform mobile code</li>
