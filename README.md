@@ -15,6 +15,12 @@ Backend  - Python, Django, Redis, Celery
 <li>100% cross platform mobile code</li>
 </ul>
 
+#### [SalesJump - Squarespace WhatsApp Chat Widget](https://www.salesjump.xyz/)
+<ul>
+<li>Pure Javascript Widget</li>
+<li>availed as monthly susbcription</li>
+</ul>
+
 #### [Visabyte - Visa Sponsored Tech Jobs](https://www.visabyte.xyz/)
 <ul>
 <li>Mobile Responsive Job board</li>
