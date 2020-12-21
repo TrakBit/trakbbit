@@ -30,8 +30,8 @@ Backend  - Python, Django, Redis, Celery
 ### Blogs
 - [Avoid The Native In React Native](https://dev.to/harsh_vardhhan/cross-platform-react-native-app-you-sure-86o)</li>
 - [Building a job board and running it for FREE (🚨Warning : Very Hacky)](https://dev.to/harsh_vardhhan/building-a-job-board-and-running-it-for-free-warning-very-hacky-1da2)
-
-
-
+- [Flow: It’s Not Just About Static Typing](https://harsh-vardhhan.medium.com/flow-its-not-just-about-static-typing-3546508f9509)
+- [Redux & Flow: Ensuring Deeper Level Of Immutability](https://harsh-vardhhan.medium.com/redux-flow-ensuring-deeper-level-of-immutability-fdf0a8b427cd)
+- [Reselect with Redux: A Use Case](https://harsh-vardhhan.medium.com/reselect-with-redux-a-use-case-811b1095ec41)
 
 
