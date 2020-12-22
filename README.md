@@ -1,6 +1,6 @@
 ### Tech Stack
-Backend  - Python, Django, Redis, Celery
-<br/>FrontEnd - React, React Native 
+**Backend**  - Python, Django, Redis, Celery
+<br/>**FrontEnd** - React, React Native 
 
 ### Projects
 #### [Trakbit Option trading Platform](https://www.youtube.com/watch?v=nE4myFQv-Co)
