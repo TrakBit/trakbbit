@@ -4,9 +4,9 @@
 
 
 
-Clock Screen       |  Clockings Screen        | Clockings Map Screen     |
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Foption-trading.png?alt=media&token=3b95e0a5-8fd9-4f30-a5f1-59a5448ad34e)  |  ![](https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Fairtable-offline-mode.avif?alt=media&token=0e5ad595-49fd-4f17-ba48-c9b97b936ee5)|  ![](https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Fsquarespace-whatsapp.avif?alt=media&token=a6709bad-b934-4771-9f70-973ae9b6ff90)
+Clock Screen       |  Clockings Screen        | 
+:-------------------------:|:-------------------------:|
+![](https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Foption-trading.png?alt=media&token=3b95e0a5-8fd9-4f30-a5f1-59a5448ad34e)  |  ![](https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Fairtable-offline-mode.avif?alt=media&token=0e5ad595-49fd-4f17-ba48-c9b97b936ee5)|
 
 
 ### Projects
