@@ -11,18 +11,21 @@
 </ul>
 
 #### [AirPlug - Airtable Offline Mode](https://www.airplug.xyz/)
+<img src="https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Fairtable-offline-mode.avif?alt=media&token=0e5ad595-49fd-4f17-ba48-c9b97b936ee5" width="640" height="360" />
 <ul>
 <li>Sync Data from airtable spreadsheet </li>
 <li>100% cross platform mobile code</li>
 </ul>
 
 #### [SalesJump - Squarespace WhatsApp Chat Widget](https://www.salesjump.xyz/)
+<img src="https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Fsquarespace-whatsapp.avif?alt=media&token=a6709bad-b934-4771-9f70-973ae9b6ff90" width="640" height="360" />
 <ul>
 <li>Pure Javascript Widget</li>
 <li>availed as monthly susbcription</li>
 </ul>
 
 #### [Visabyte - Visa Sponsored Tech Jobs](https://www.visabyte.xyz/)
+<img src="https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Fvisabyte.png?alt=media&token=8ca63d14-6a74-43aa-94d3-7a1d4be169de" width="640" height="360" />
 <ul>
 <li>Mobile Responsive Job board</li>
 <li>Web scrapping from Stackoverflow</li>
