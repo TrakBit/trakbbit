@@ -4,7 +4,7 @@
 
 ### Projects
 #### [Trakbit Option trading Platform](https://www.youtube.com/watch?v=nE4myFQv-Co)
-<img src="https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Foption-trading.png?alt=media&token=3b95e0a5-8fd9-4f30-a5f1-59a5448ad34e" width="200" height="200" />
+<img src="https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Foption-trading.png?alt=media&token=3b95e0a5-8fd9-4f30-a5f1-59a5448ad34e" width="640" height="360" />
 <ul>
 <li>Derviates trading platform for Indian market </li>
 <li>Fetches data every 10 seconds and uses c-types for faster calcualtion</li>
