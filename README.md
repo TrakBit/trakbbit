@@ -18,7 +18,7 @@
 </ul>
 
 #### [SalesJump - Squarespace WhatsApp Chat Widget](https://www.salesjump.xyz/)
-<img src="https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Fsquarespace-whatsapp.avif?alt=media&token=a6709bad-b934-4771-9f70-973ae9b6ff90" width="640" height="360" />
+<img src="https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Fsquarespace-whatsapp.avif?alt=media&token=a6709bad-b934-4771-9f70-973ae9b6ff90" width="640" height="330" />
 <ul>
 <li>Pure Javascript Widget</li>
 <li>availed as monthly susbcription</li>
