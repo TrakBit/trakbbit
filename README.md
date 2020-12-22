@@ -3,7 +3,7 @@
 <br/>**Frontend** - React, React Native 
 
 ### Projects
-#### [Trakbit Option trading Platform](https://www.youtube.com/watch?v=nE4myFQv-Co)
+#### [Trakbit Option trading Platform](https://github.com/trakbit/option-trading-backend)
 <img src="https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Foption-trading.png?alt=media&token=3b95e0a5-8fd9-4f30-a5f1-59a5448ad34e" width="640" height="360" />
 <ul>
 <li>Derviates trading platform for Indian market </li>
