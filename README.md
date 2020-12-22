@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" media="all" href="https://gist.githubusercontent.com/TrakBit/f7bdadf6a1325d437e8f41cbf69e3867/raw/49913ea401f1182038f9c9a138bd7767464335b9/style.css" />
+
 ## Tech Stack
 **Backend**  - Python, Django, Redis, Celery
 <br/>**Frontend** - React, React Native 
