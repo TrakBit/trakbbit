@@ -25,7 +25,7 @@
 </ul>
 
 #### [Visabyte - Visa Sponsored Tech Jobs](https://www.visabyte.xyz/)
-<img src="https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Fvisabyte.png?alt=media&token=8ca63d14-6a74-43aa-94d3-7a1d4be169de" width="640" height="360" />
+<img src="https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Fvisabyte.png?alt=media&token=2bc6dd94-1f18-4ead-a52e-cf5a88fcb079" width="640" height="360" />
 <ul>
 <li>Mobile Responsive Job board</li>
 <li>Web scrapping from Stackoverflow</li>
