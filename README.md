@@ -7,10 +7,9 @@
 
 ## Project
 
-Trakbit Option trading ([Back-End](https://github.com/trakbit/option-trading-backend)/[Front-End](https://github.com/trakbit/option-trading-frontend))
-
-<img src="https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Foption-trading.png?alt=media&token=7f93d603-96ed-4bf1-9d58-6a184e67fb71" width="426" height="240" />
-
+| Trakbit Option trading ([Back-End](https://github.com/trakbit/option-trading-backend)/[Front-End](https://github.com/trakbit/option-trading-frontend))|
+|---------------------------------------------|
+| <img src="https://firebasestorage.googleapis.com/v0/b/squarespace-chat.appspot.com/o/images%2Foption-trading.png?alt=media&token=7f93d603-96ed-4bf1-9d58-6a184e67fb71" width="426" height="240" />     |
 
 
 ## Blogs
